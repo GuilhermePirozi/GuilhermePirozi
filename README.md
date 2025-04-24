@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN](https://www.linkedin.com/in/guilherme-pirozi-a622222bb/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -22,14 +22,6 @@
 ### 🧰 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,git,figma,vscode" />
-
----
-
-### 📌 Projetos em destaque
-
-- [🌐 Meu Portfólio](https://SEU-PORTFOLIO.com) – Uma vitrine dos meus melhores projetos  
-- [🛒 E-commerce UI](https://github.com/SEU-USUARIO/ecommerce-ui) – Interface clean e responsiva com React + Tailwind  
-- [📊 Dashboard Financeiro](https://github.com/SEU-USUARIO/finance-dashboard) – Gerenciamento financeiro com gráficos e autenticação
 
 ---
 

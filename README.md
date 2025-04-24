@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN](https://www.linkedin.com/in/guilherme-pirozi-a622222bb/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-pirozi-a622222bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:guilhermeppirozi@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -31,9 +31,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermePirozi&show_icons=true&theme=radical&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePirozi&layout=compact&theme=radical" height="180"/>
 </p>
-
----
-
-### 🤝 Vamos conversar!
-
-Se quiser trocar uma ideia sobre projetos, colaborações ou apenas bater um papo tech, me chama! 🚀

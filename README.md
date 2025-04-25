@@ -15,7 +15,7 @@
 
 - 🎯 Desenvolvedor front-end focado em criar experiências web modernas e acessíveis  
 - ⚙️ Amante de **React**, **JavaScript/TypeScript**, **Tailwind CSS**  
-- 🚀 Atualmente explorando **java** e **CSharp**  
+- 🚀 Atualmente explorando **Java** e **CSharp**  
 - 📚 Sempre aprendendo algo novo e compartilhando conhecimento
 
 ---

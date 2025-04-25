@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Guilherme Pirozi!</h1>
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?color=1DA1F2&lines=Desenvolvedor+Front-end;Apaixonado+por+Tecnologia;Sempre+em+evolução+constante..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1DA1F2&lines=Desenvolvedor+Front-end;Apaixonado+por+Tecnologia;Sempre+em+evolução+constante" />
 </p>
 
 <p align="center">
